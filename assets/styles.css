@@ -68,7 +68,6 @@ h3 { max-width: 650px; margin-bottom: 10px; font-size: 20px; line-height: 1.48; 
 .resources a { display: inline-flex; gap: 15px; align-items: center; min-width: 151px; padding: 7px 9px; color: var(--white); background: var(--ruc-red); font: 10px "DM Mono", monospace; text-decoration: none; letter-spacing: .04em; transition: background .2s, transform .2s; }
 .resources a:hover { background: var(--deep-red); transform: translateX(3px); }
 .resources a span { color: inherit; font-size: 13px; }
-.pending { padding: 7px 0; color: #928b82; font: 10px "DM Mono", monospace !important; letter-spacing: .04em; }
 .closing { padding: 103px 0 108px; background: var(--white); }
 .closing h2 { margin: 13px 0 13px; }
 .closing > p:not(.section-number) { color: var(--muted); font-size: 15px; }
