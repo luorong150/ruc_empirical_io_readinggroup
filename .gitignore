@@ -1,0 +1,9 @@
+# Publish only the GitHub Pages website and its linked PDFs.
+/*
+!/.gitignore
+!/README.md
+!/index.html
+!/assets/
+!/assets/**
+!/papers_slides/
+!/papers_slides/**
