@@ -37,15 +37,15 @@ h1 em { color: var(--ruc-red); font-family: "Libre Baskerville", "Noto Serif SC"
 .hero-footer p { margin: 0; font-weight: 600; }
 .hero-footer span, .intro-copy span, .summary span, .schedule-note span, .closing > p:not(.section-number) span { color: var(--muted); font-size: .84em; }
 .next-session { max-width: 980px; margin-top: 52px; padding: 22px 0 25px; border-top: 2px solid var(--ruc-red); border-bottom: 1px solid var(--rule); }
-.next-label { margin-bottom: 16px; color: var(--ruc-red); font: 500 11px/1.4 "DM Mono", monospace; letter-spacing: .1em; }
+.next-label { margin-bottom: 16px; color: var(--ruc-red); font: 500 18px/1.4 "DM Mono", monospace; letter-spacing: .05em; }
 .next-grid { display: grid; grid-template-columns: 1fr 1.35fr; column-gap: 44px; row-gap: 15px; }
-.next-grid p { margin: 0; font-size: 15px; line-height: 1.65; }
-.next-grid b { display: block; margin-bottom: 3px; color: var(--ruc-red); font: 500 10px/1.4 "DM Mono", monospace; letter-spacing: .08em; }
-.next-grid span { color: var(--muted); font-family: "Libre Baskerville", "Noto Serif SC", serif; font-size: 12px; }
+.next-grid p { margin: 0; font-size: 18px; line-height: 1.65; }
+.next-grid b { display: block; margin-bottom: 3px; color: var(--ruc-red); font: 500 18px/1.4 "DM Mono", monospace; letter-spacing: .03em; }
+.next-grid span { color: var(--muted); font-family: "Libre Baskerville", "Noto Serif SC", serif; font-size: 18px; }
 .next-paper { grid-column: 1 / -1; max-width: 840px; }
-.next-link { display: inline-flex; align-items: center; gap: 10px; margin-top: 18px; color: var(--ruc-red); font: 500 11px "DM Mono", monospace; letter-spacing: .07em; text-decoration: none; }
+.next-link { display: inline-flex; align-items: center; gap: 10px; margin-top: 18px; color: var(--ruc-red); font: 500 18px "DM Mono", monospace; letter-spacing: .03em; text-decoration: none; }
 .next-link:hover { text-decoration: underline; text-underline-offset: 4px; }
-.next-link span { font-size: 14px; }
+.next-link span { font-size: 18px; }
 .intro { display: grid; grid-template-columns: 25% 1fr; padding: 118px 0 124px; }
 .section-number { color: var(--ruc-red); }
 h2 { font-size: clamp(29px, 4vw, 47px); line-height: 1.4; letter-spacing: -.04em; font-weight: 600; }
